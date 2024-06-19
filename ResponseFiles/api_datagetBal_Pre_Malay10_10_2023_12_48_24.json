@@ -1,0 +1,13 @@
+{"msisdn":"60161093348197"
+"balances":[{"resourceID":458
+"hideAttrib":"mainbalance"
+"resourceName":"Malaysian Ringgit"
+"resourceUnit":"MYR"
+"subBalances":[{"resourceInstance":0
+"validFrom":"10-Oct-2023 00:00:00"
+"validTo":"01-Jan-1970 07:30:00"
+"origAmount":0
+"amount":-100.00
+"rolloverData":0
+"subtype":0}]}]
+"requestStatus":"1"}

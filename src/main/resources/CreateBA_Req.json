@@ -1,0 +1,79 @@
+{
+  "accountNo": "BA",
+  "glSegment": ".05_7",
+  "customerSegment": "102",
+  "customerType": 1,
+  "profile": [
+    {
+      "customerID": "CID",
+      "identificationType": "Government",
+      "identificationNumber": "4321",
+      "groupCode": "code_123",
+      "invoiceLanguage": "1",
+      "invoiceDeliveryPref": "SMS",
+      "customerValue": "6",
+      "creditClass": "4",
+      "firstActivateDate": "29-Jun-2023 13:22:30",
+      "dateOfBirth": "27-May-1996 13:22:30",
+      "notificationMsisdn": "6016001074871",
+      "notificationChannel": "0",
+      "notificationEmail": "oracle@xyz.com",
+      "notificationLanguagePreference": "1",
+      "invoiceMode": "0",
+      "noCreditLimit": "1",
+      "paymentMethod": "Postpaid",
+      "nationality": "Malaysian",
+      "occupationType": "occType",
+      "corporateValue" : "CorpFld1",
+      "corporateGroupType" : "CorpGrp1",
+      "customerActivationDate" :"29-Jun-2023 13:22:30"
+    }
+  ],
+  "billUnit": [
+    {
+      "paymentType": 10001,
+      "bdom": 1,
+      "billWhen": 1,
+      "actgType": 2,
+      "billingSegment": 102
+    }
+  ],
+  "creditLimit": [
+    {
+      "creditLimitAmount": 500000000,
+      "thresholds": [
+        {
+          "threshold": 90
+        }
+      ]
+    }
+  ],
+  "nameInfo": [
+    {
+      "contactType": "Invoice Address",
+      "salutation": "Mr",
+      "firstName": "Arabinda",
+      "lastName": "Sahu",
+      "middleName": "Kumar",
+      "company": "oracle",
+      "country": "India",
+      "city": "Bhubaneswar",
+      "state": "Odisha",
+      "zipCode": "751006",
+      "address": "Samant",
+      "emailAddress": "sas@gmail.com",
+      "phones": [
+        {
+          "phoneType": 1,
+          "phone": "89844862231"
+        }
+      ]
+    }
+  ],
+  "paymentInfo": [
+    {
+      "paymentTerm": 2,
+      "paymentOffset": -1
+    }
+  ]
+}

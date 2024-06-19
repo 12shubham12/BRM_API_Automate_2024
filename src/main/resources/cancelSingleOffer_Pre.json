@@ -1,0 +1,12 @@
+{
+  "accountNo":"SA_Pre_Malay",
+  "msisdn": "MSISDN",
+  "package":[
+    {
+      "packageName":"Pkg_Name",
+      "packageId":"package_Id",
+      "uniqueId": "Unique_Id",
+      "refundFlag": "Refund_Flag"
+    }
+  ]
+}

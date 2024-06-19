@@ -1,0 +1,26 @@
+{"msisdn":"601681138255"
+"balances":[{"resourceID":458
+"hideAttrib":"mainbalance"
+"resourceName":"Malaysian Ringgit"
+"resourceUnit":"MYR"
+"subBalances":[{"resourceInstance":0
+"validFrom":"06-Oct-2023 00:00:00"
+"validTo":"01-Jan-1970 07:30:00"
+"origAmount":0
+"amount":-105.00
+"rolloverData":0
+"subtype":0}]}
+{"resourceID":200000056
+"hideAttrib":"token"
+"resourceName":"Live FCA"
+"resourceUnit":"UNIT"
+"subBalances":[{"resourceInstance":2
+"validFrom":"06-Oct-2023 02:31:23"
+"validTo":"01-Jan-1970 07:30:00"
+"origAmount":-0.01
+"amount":-0.01
+"rolloverData":0
+"uniqueId":"RG_Live FCA_2623_CO"
+"offeringName":"RG_Live FCA_2623_CO"
+"subtype":0}]}]
+"requestStatus":"1"}

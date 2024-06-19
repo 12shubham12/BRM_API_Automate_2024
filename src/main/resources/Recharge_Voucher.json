@@ -1,0 +1,8 @@
+{
+  "msisdn" : "MSISDN",
+  "rechargeRefID" : "REFID",
+  "rechargeAmount" : "Amt",
+  "rechargeType" : "RCH_TYPE",
+  "paymentMethod": "PayMethod",
+  "paymentChannel" : "PayChannel"
+}

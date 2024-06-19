@@ -1,0 +1,119 @@
+{
+  "accountNo": "POST_SA",
+  "glSegment": ".05_7",
+  "customerSegment": "102",
+  "customerType": 1,
+  "parentAccountNo": "BA",
+  "profile": [
+    {
+      "customerID": "CID",
+      "identificationType": "Government",
+      "identificationNumber": "4311221",
+      "groupCode": "code_123",
+      "groupName": "grpName123",
+      "invoiceLanguage": "0",
+      "invoiceDeliveryPref": "SMS",
+      "customerValue": "6",
+      "dateOfBirth": "27-May-1996 13:22:30",
+      "notificationChannel": "0",
+      "notificationEmail": "abc@xyz.com",
+      "notificationLanguagePreference": "1",
+      "creditClass": "4",
+      "invoiceMode": "0",
+      "noCreditLimit": "1",
+      "paymentMethod": "Postpaid",
+      "nationality": "Malaysian",
+      "loanLimit": 100000,
+      "subscriberType": "subscriber",
+      "occupationType": "occType",
+      "corporateValue": "corporateValue",
+      "corporateGroupType": "corporateGroupType",
+      "customerActivationDate": "date1",
+      "telecomType": 33,
+      "registrationDate": "date2"
+    }
+  ],
+  "billUnit": [
+    {
+      "paymentType": 10007,
+      "bdom": 1,
+      "billWhen": 1,
+      "actgType": 2,
+      "billingSegment": 102
+    }
+  ],
+  "creditLimit": [
+    {
+      "creditLimitAmount": 500000000,
+      "thresholds": [
+        {
+          "threshold": 90
+        }
+      ]
+    }
+  ],
+  "nameInfo": [
+    {
+      "contactType": "Invoice Address",
+      "salutation": "Mr",
+      "firstName": "sas",
+      "lastName": "Nayak",
+      "middleName": "Kumari",
+      "company": "Oracle",
+      "country": "India",
+      "city": "Angul",
+      "state": "ODISHA",
+      "zipCode": "759122",
+      "address": "H 52, HIMUDA Lohna",
+      "emailAddress": "abc@xyz",
+      "phones": [
+        {
+          "phoneType": 1,
+          "phone": "232324341"
+        },
+        {
+          "phoneType": 2,
+          "phone": "238764341"
+        }
+      ]
+    }
+  ],
+  "paymentInfo": [
+    {
+      "paymentTerm": 2,
+      "paymentOffset": -1
+    }
+  ],
+  "services": [
+    {
+      "msisdn": "MSISDN1",
+      "imsi": "IMSI",
+      "subscriberPreferences": [
+        {
+          "name": "0",
+          "preferValue": "1"
+        },
+        {
+          "name": "1",
+          "preferValue": "3"
+        },
+        {
+          "name": "2",
+          "preferValue": "MSISDN2"
+        }
+      ],
+      "package": [
+        {
+          "packageName": "Package",
+          "packageType": "Primary",
+          "uniqueId": "3245",
+          "bundles": [
+            {
+              "bundleName": "Bundle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "msisdn" : "MSISDNSP",
+  "subscriberPreferences": [
+    {
+      "name": "0",
+      "preferValue": "Val1"
+    },
+    {
+      "name": "1",
+      "preferValue": "Val2"
+    },
+    {
+      "name": "2",
+      "preferValue": "MSISDN2"
+    }
+
+  ],
+  "actionCode" : "ActionCode"
+}

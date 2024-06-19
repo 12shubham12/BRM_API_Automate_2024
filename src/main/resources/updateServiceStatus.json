@@ -1,0 +1,6 @@
+{
+  "msisdn": "MSISDN",
+  "reasonCode" : "ReasonCode",
+  "serviceStatus" : "SrvState",
+  "reconnectFlag" : "RecFlag"
+}

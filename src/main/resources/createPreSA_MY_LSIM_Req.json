@@ -1,0 +1,121 @@
+{
+  "accountNo": "PreSA_LSIM",
+  "glSegment": ".01_1",
+  "customerSegment": "custSeg123",
+  "customerType": 1,
+  "taxExemption": 2.5,
+  "profile": [
+    {
+      "customerID": "CIDLSIM",
+      "npsi": "True",
+      "beid": "102",
+      "identificationType": "Government",
+      "identificationNumber": "4321",
+      "accountOwner": "6689211249",
+      "groupCode": "code_123",
+      "groupName": "grpName123",
+      "invoiceLanguage": "0",
+      "invoiceDeliveryPref": "Email",
+      "customerValue": "1",
+      "dateOfBirth": "01-Nov-1988 13:22:30",
+      "vatNumber": "123456",
+      "vatBranch": "BranchCodeForVat",
+      "printVATNo": "0",
+      "creditClass": "Customer credit profile",
+      "invoiceMode": "0",
+      "noCreditLimit": "1",
+      "paymentMethod": "Prepaid",
+      "nationality": "Malaysian",
+      "loanLimit": 100000,
+      "subscriberType": "subscriber",
+      "occupationType": "occType",
+      "enterpriseCustomerType": "enterprise",
+      "corporateValue": "corporateValue",
+      "corporateGroupType": "corporateGroupType",
+      "registrationDate" : "date2",
+      "telecomType": "33"
+    }
+  ],
+  "billUnit": [
+    {
+      "paymentType": 10000,
+      "billWhen": 1,
+      "actgType": 2,
+      "billingSegment": 102
+    }
+  ],
+  "creditLimit": [
+    {
+      "creditLimitAmount": 600,
+      "thresholds": [
+        {
+          "threshold": 0
+        }
+      ]
+    }
+  ],
+  "paymentInfo": [
+    {
+      "paymentTerm": 1,
+      "paymentOffset": -1
+    }
+  ],
+  "nameInfo": [
+    {
+      "contactType": "Invoice Address",
+      "salutation": "Mr",
+      "firstName": "Hakeem",
+      "lastName": "Shinde",
+      "country": "Malaysia",
+      "city": "Ipoh",
+      "state": "Perak",
+      "zipCode": "37500",
+      "address": "80, Happy Street",
+      "emailAddress": "abc@gmail.com"
+    }
+  ],
+  "services": [
+    {
+      "msisdn": "MSISDN",
+      "imsi": "IMSI",
+      "subscriberPreferences": [
+        {
+          "name": "0",
+          "preferValue": "1"
+        },
+        {
+          "name": "1",
+          "preferValue": "0"
+        },
+        {
+          "name": "2",
+          "preferValue": "MSISDN"
+        }
+
+      ],
+      "package": [
+        {
+          "packageName": "Package1",
+          "packageType": "Primary",
+          "uniqueId": "324831",
+          "bundles": [
+            {
+              "bundleName": "Bundle1"
+            }
+          ]
+        },
+        {
+          "packageName": "Package2",
+          "packageType": "Addon",
+          "uniqueId": "502008",
+          "bundles": [
+            {
+              "bundleName": "Bundle2"
+
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

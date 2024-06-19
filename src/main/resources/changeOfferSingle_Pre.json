@@ -1,0 +1,24 @@
+{
+  "accountNo":"SA_Pre_Malay",
+  "msisdn": "MSISDN",
+  "cancelPackage":[
+
+
+    {     "packageName":"OldPackageName",
+      "packageId":"Package_Id"
+    }
+  ],
+  "newPackage":[
+    {
+      "packageName":"NewPackage",
+      "packageType":"Addon",
+      "uniqueId":"UniqID",
+
+      "bundles":[
+        {
+          "bundleName":"NewBundle"
+        }
+      ]
+    }
+  ]
+}

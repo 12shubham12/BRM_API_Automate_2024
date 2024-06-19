@@ -1,0 +1,52 @@
+{
+  "accountNo": "SA_Pre_SP",
+  "glSegment": ".01_3",
+  "customerType": 1,
+  "profile": [
+    {
+      "customerID": "CUSTIDSP",
+      "beid":"102",
+      "paymentMethod": "Prepaid",
+      "telecomType": "33"
+    }
+  ],
+  "billUnit": [
+    {
+      "paymentType": 10000,
+      "billingSegment": 102
+    }
+  ],
+
+  "services": [
+    {
+      "msisdn": "MSISDN",
+      "imsi": "IMSI",
+      "subscriberPreferences": [
+        {
+          "name": "0",
+          "preferValue": "1"
+        },
+        {
+          "name": "1",
+          "preferValue": "0"
+        },
+        {
+          "name": "2",
+          "preferValue": "MSISDN"
+        }
+      ],
+      "package": [
+        {
+          "packageName": "Package",
+          "packageType": "Primary",
+          "uniqueId": "347",
+          "bundles": [
+            {
+              "bundleName": "Bundle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

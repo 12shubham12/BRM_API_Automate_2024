@@ -1,0 +1,115 @@
+{
+  "accountNo": "PRE_SA",
+  "glSegment": ".01_1",
+  "customerSegment": "custSeg123",
+  "customerType": 1,
+  "taxExemption": 2.5,
+  "profile": [
+    {
+      "customerID": "CID",
+      "npsi": "wqy",
+      "beid": "102",
+      "identificationType": "Government",
+      "identificationNumber": "4321",
+      "accountOwner": "6689211249",
+      "groupCode": "code_123",
+      "groupName": "grpName123",
+      "invoiceLanguage": "0",
+      "invoiceDeliveryPref": "Email",
+      "customerValue": "1",
+      "dateOfBirth": "01-Nov-1988 13:22:30",
+      "vatNumber": "123456",
+      "vatBranch": "BranchCodeForVat",
+      "printVATNo": "0",
+      "notificationMsisdn": "601697450433",
+      "notificationChannel": "1",
+      "notificationEmail": "abc@xyz.com",
+      "notificationLanguagePreference": "English",
+      "creditClass": "Customer credit profile",
+      "invoiceMode": "0",
+      "noCreditLimit": "1",
+      "paymentMethod": "Prepaid",
+      "nationality": "Malaysian",
+      "loanLimit": 1000,
+      "subscriberType": "subscriber",
+      "occupationType": "occType",
+      "enterpriseCustomerType": "enterprise",
+      "corporateValue": "corporateValue",
+      "corporateGroupType": "corporateGroupType",
+      "customerActivationDate": "date1",
+      "registrationDate" : "date2",
+      "telecomType": "33"
+    }
+  ],
+  "billUnit": [
+    {
+      "paymentType": 10000,
+      "billWhen": 1,
+      "actgType": 2,
+      "billingSegment": 102
+    }
+  ],
+  "creditLimit": [
+    {
+      "creditLimitAmount": 600,
+      "thresholds": [
+        {
+          "threshold": 0
+        }
+      ]
+    }
+  ],
+  "paymentInfo": [
+    {
+      "paymentTerm": 1,
+      "paymentOffset": -1
+    }
+  ],
+  "nameInfo": [
+    {
+      "contactType": "Invoice Address",
+      "salutation": "Mr",
+      "firstName": "Hakeem",
+      "lastName": "Shinde",
+      "country": "Malaysia",
+      "city": "Ipoh",
+      "state": "Perak",
+      "zipCode": "37500",
+      "address": "80, Happy Street",
+      "emailAddress": "abc@gmail.com"
+    }
+  ],
+  "services": [
+    {
+      "msisdn": "MSISDN1",
+      "imsi": "IMSI",
+      "subscriberPreferences": [
+        {
+          "name": "0",
+          "preferValue": "1"
+        },
+        {
+          "name": "1",
+          "preferValue": "0"
+        },
+        {
+          "name": "2",
+          "preferValue": "MSISDN2"
+        }
+
+      ],
+      "package": [
+        {
+          "packageName": "Package",
+          "packageType": "Primary",
+          "uniqueId": "324831",
+          "bundles": [
+            {
+              "bundleName": "Bundle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

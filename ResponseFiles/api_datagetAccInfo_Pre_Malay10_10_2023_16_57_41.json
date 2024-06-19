@@ -1,0 +1,63 @@
+{"requestStatus":"1"
+"msisdn":"6016155068858"
+"accountNo":"SA01958081866"
+"glSegment":".01_1_102"
+"accountStatus":10100
+"customerSegment":"custSeg123"
+"customerType":1
+"taxExemption":2.5
+"paymentInfo":[{"createdDate":"10-Oct-2023 19:27:30"
+"paymentTerm":1
+"paymentType":"10000"}]
+"billUnit":[{"bdom":12
+"billWhen":1
+"actgType":2
+"billingSegment":102
+"lastBillT":"10-Oct-2023 00:00:00"
+"nextBillT":"12-Nov-2023 00:00:00"
+"futureBillT":"12-Dec-2023 00:00:00"
+"exemptCollection":0
+"billSupression":1}]
+"services":[{"msisdn":"6016155068858"
+"imsi":"98121039642913"
+"subscriberPreferences":[{"name":"NotificationChannel"
+"preferValue":"1"}
+{"name":"NotificationLanguage"
+"preferValue":"0"}
+{"name":"NotificationMSISDN"
+"preferValue":"6016155068858"}
+{"name":"Nationality"
+"preferValue":"Malaysian"}
+{"name":"TelecomType"
+"preferValue":"33"}
+{"name":"AoC"
+"preferValue":"1"}]
+"serviceEffectiveDate":"10-Oct-2023 19:27:38"
+"lastServiceStatusChangeDate":"10-Oct-2023 19:27:38"
+"serviceStatus":"10100"
+"validityDate":"07-Feb-2024 23:59:59"
+"lifecycleState":116}]
+"profile":[{"paymentMethod":"Prepaid"
+"customerID":"CID011285298935"
+"identificationType":"Government"
+"identificationNumber":"4321"
+"beid":"102"
+"notificationLanguagePreference":"0"
+"notificationNumber":"6016155068858"
+"notificationChannel":"1"
+"firstActivateDate":"10-Oct-2023 19:27:38"
+"dateOfBirth":"01-Nov-1988 13:22:30"
+"fraudStaus":"0"
+"loanLimit":1000
+"creditClass":"Customer credit profile"}]
+"contactDetails":[{"contactType":"Invoice Address"
+"salutation":"Mr"
+"firstName":"Hakeem"
+"lastName":"Shinde"
+"address":"80
+ Happy Street"
+"city":"Ipoh"
+"state":"Perak"
+"zipCode":"37500"
+"country":"Malaysia"
+"emailAddress":"abc@gmail.com"}]}

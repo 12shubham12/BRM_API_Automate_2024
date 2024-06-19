@@ -1,0 +1,33 @@
+{"accountNo":"SA01543097556"
+"msisdn":"60162071642719"
+"requestStatus":"1"
+"package":[{"packageName":"biGBonus 50 (12GB + FREE 90GB) -30d_SSQ3"
+"packageType":"Addon"
+"packageId":46073
+"uniqueId":"34534"
+"startDate":"10-Oct-2023 15:16:30"
+"endDate":"01-Jan-1970 07:30:00"
+"bundles":[{"bundleName":"PreM_QTURC_biGBonus 50--12GB_FREE 90GB-30days_502180"
+"products":[{"offerName":"PreM_QTURC_biGBonus 50--12GB_FREE 90GB-30days_502180_CO"
+"quantity":1}
+{"offerName":"PreM_QTURC_biGBonus 50--12GB_FREE 90GB-30days_502180_TB_CO"
+"quantity":1}]
+"discounts":[{"discountName":"Pre_Consume_200000002_300000002_DO"
+"quantity":1}
+{"discountName":"Pre_Consume_200000004_300000003_DO"
+"quantity":1}
+{"discountName":"Pre_Consume_200000151_300000073_DO"
+"quantity":1}
+{"discountName":"Pre_Consume_200000438_300000296_DO"
+"quantity":1}]}]}
+{"packageName":"RM4 3GB 3days"
+"packageType":"Addon"
+"packageId":46074
+"uniqueId":"34536.0"
+"startDate":"10-Oct-2023 15:16:32"
+"endDate":"01-Jan-1970 07:30:00"
+"bundles":[{"bundleName":"PreM_QTU_RM4 3GB 3days_502711"
+"products":[{"offerName":"PreM_QTU_RM4 3GB 3days_502711_CO"
+"quantity":1}]
+"discounts":[{"discountName":"Pre_Consume_200000028_300000017_DO"
+"quantity":1}]}]}]}

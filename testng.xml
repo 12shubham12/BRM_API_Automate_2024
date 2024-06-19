@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite" thread-count="6">
+    <listeners>
+        <listener class-name="reporting.SetupForReport"></listener>
+    </listeners>
+    <test verbose="2" preserve-order="true" name="Test1">
+        <classes>
+            <class name="testcases.AllTest">
+                <methods>
+                    <include name="createSA_Pre_Malay"/>
+                    <include name="createPreSA_maly_LSIM"/>
+                    <include name="recharge_Vouch_Malay"/>
+                    <include name="getBal_Pre_Malay"/>
+                    <include name="getAccinfo_pre_Malay"/>
+                    <include name="performMultiple_PO_Pre"/>
+                    <include name="performSingle_CANO_Pre"/>
+                    <include name="performSingle_CHGO_Pre"/>
+                    <include name="createPreSA_SP"/>
+                    <include name="updateSrvPrefSP_Pre"/>
+                    <include name="updateAddressSP_Pre"/>
+                    <include name="updateAccProfSP_Pre"/>
+                    <include name="updateSrvStsTo116_Pre"/>
+                    <include name="updateSrvStsTo117_Pre"/>
+                    <include name="updateSrvStsTo118_Pre"/>
+                    <include name="updateSrvStsTo120_Pre"/>
+                    <include name="updateSrvStsTo116From120_Pre"/>
+                    <include name="createPreSA_Maly_Loan"/>
+                    <include name="requestLoan_Pre"/>
+                    <include name="updtSrvStsToActv_Pre_Loan"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,26 @@
+{
+  "accountNo": "SA_Pre_Malay",
+  "msisdn": "MSISDN",
+  "package": [
+    {
+      "packageName": "Pkg_Name",
+      "packageType": "Addon",
+      "uniqueId": "UniqueId",
+      "bundles": [
+        {
+          "bundleName": "Bundle_Name"
+        }
+      ]
+    },
+    {
+      "packageName": "PkgName2",
+      "packageType": "Addon",
+      "uniqueId": "UniqueID2",
+      "bundles": [
+        {
+          "bundleName": "BundleName2"
+        }
+      ]
+    }
+  ]
+}
