@@ -1,7 +1,7 @@
 package testcases;
 
-import api.endpoints.BaseClass;
-import api.endpoints.EndPointURLs;
+import endpoints.BaseClass;
+import endpoints.EndPointURLs;
 import io.restassured.response.Response;
 import org.testng.Assert;
 import org.testng.annotations.Test;

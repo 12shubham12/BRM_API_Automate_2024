@@ -1,6 +1,6 @@
 package testcases;
 
-import api.endpoints.BaseClass;
+import endpoints.BaseClass;
 import io.restassured.RestAssured;
 import io.restassured.http.ContentType;
 import io.restassured.response.Response;
